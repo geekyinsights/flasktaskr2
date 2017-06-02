@@ -1,0 +1,16 @@
+body{
+  padding: 60px 0;
+}
+.footer{
+  padding-top: 30px;
+}
+
+.error{
+  color: red;
+  font-size: .8em;
+}
+
+.input-group{
+  margin: 15px 0;
+}
+
